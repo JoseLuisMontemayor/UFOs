@@ -25,7 +25,7 @@ For example, if a user would want to search for the data with the date 1/13/2010
 
 ### Summary 
 
-The data 
+One drawback in the dataset is that only the range of country of the information is within the US, limiting other users from around the world from using the platform, since that may be interested in the first place in searching in another country. A recomendation could be to search for more data online and add it to the data file in the js folder, which would extend the amount of information to be displayed. Another recommendation would be to have a better visual of the webpage in general, making it more aesthetic for it to be more attractive for the users. 
 
 
 
