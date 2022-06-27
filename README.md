@@ -21,7 +21,7 @@ You will be able to filter data below the label "Filter Search";
 
 For example, if a user would want to search for the data with the date 1/13/2010, the display would be the next:
 
-* Insertar foto con la data filtrada*
+![](https://github.com/JoseLuisMontemayor/UFOs/blob/main/Images/Example_Date.PNG)
 
 ### Summary 
 
