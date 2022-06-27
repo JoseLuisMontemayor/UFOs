@@ -8,7 +8,7 @@ The purpose of this project was to build a UFO webpage to display stored interes
 
 As you enter the webpage you will encounter a display like this: 
 
-*Insertar foto de la pagina completa*
+![](https://github.com/JoseLuisMontemayor/UFOs/blob/main/Images/Total_Capture.PNG)
 
 You will be able to filter data below the label "Filter Search"
 
