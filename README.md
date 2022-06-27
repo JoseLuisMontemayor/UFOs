@@ -12,7 +12,7 @@ As you enter the webpage you will encounter a display like this:
 
 You will be able to filter data below the label "Filter Search";
 
-* Insertar foto con un recuadro en los filtros*
+![](https://github.com/JoseLuisMontemayor/UFOs/blob/main/Images/Filters.png)
 
 - As mentioned, the website can display the information with filters as the Date, City, State, Country, Shape.
 - To nagivate through this filters, you need to click on the textbox and enter the information that you desire to see. 
