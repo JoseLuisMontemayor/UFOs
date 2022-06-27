@@ -10,7 +10,7 @@ As you enter the webpage you will encounter a display like this:
 
 ![](https://github.com/JoseLuisMontemayor/UFOs/blob/main/Images/Total_Capture.PNG)
 
-You will be able to filter data below the label "Filter Search"
+You will be able to filter data below the label "Filter Search";
 
 * Insertar foto con un recuadro en los filtros*
 
